@@ -31,6 +31,15 @@ This document is written in [markdown](https://en.wikipedia.org/wiki/Markdown), 
 - From colab, you can manually upload/download files, or even mount google drive (google this to find out how, e.g., https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497)
 - You can use R within a *python* Colab file, but for this class I wouldn't recommend it
 
+#### Packages
+- [Rstudio's suggested list of top packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) including [ggplot2](http://docs.ggplot2.org/current/) for nice plotting, [tidyverse](https://www.tidyverse.org/) packages like `dyplyr`, `tidyr`, `stringr` and `lubridate`
+  - For time series, there is [zoo](https://cran.rstudio.com/web/packages/zoo) ( the most popular format for saving time series objects in R), [xts](https://cran.rstudio.com/web/packages/xts) (flexible tools for manipulating time series data sets) and [quantmod](http://www.quantmod.com/) (for downloading financial data, plotting common charts, and doing technical analysis).
+
+#### Cheatsheets
+- [RStudio cheat sheet collection](https://github.com/rstudio/cheatsheets) is quite good
+  - [base R](https://github.com/rstudio/cheatsheets/blob/main/base-r.pdf)
+  - [Time series cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/time-series.pdf) 
+  - [Data visualization with `ggplot2`](https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf)
 
 #### R and time series
 - A [curated list of time series topics in R](https://cran.r-project.org/web/views/TimeSeries.html).
