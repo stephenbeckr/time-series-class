@@ -4,8 +4,8 @@ R code for the time series class, Spring 2022
 
 The hyperlinks below are to ipynb (jupyter) notebooks using [nbviewer](https://nbviewer.jupyter.org) since github's default markdown interpreter doesn't always work (it often works if you refresh the page a few times, but not always)
 
-- [Survival Guide to R](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/master/Code/SurvivalGuideToR_R.ipynb): quick intro to R, from when Prof. Manuel Lladser taught time series in Spr '20, ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/master/Code/SurvivalGuideToR_R.ipynb))
-- [R tutorial](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/master/Code/R_tutorial.ipynb): quick intro to R, from when Prof. Will Kleiber taught time series in Spr '18, ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/master/Code/R_tutorial.ipynb))
+- [Survival Guide to R](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/SurvivalGuideToR_R.ipynb): quick intro to R, from when Prof. Manuel Lladser taught time series in Spr '20, ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/SurvivalGuideToR_R.ipynb))
+- [R tutorial](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/R_tutorial.ipynb): quick intro to R, from when Prof. Will Kleiber taught time series in Spr '18, ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/R_tutorial.ipynb))
 
 ### ipynb notebooks not rendering?
 I've included the links in this README file to circumvent the issue, but if you click the file name in the main listing, you might have issues. So either use the links in this README file, or try one of the strategies below:
