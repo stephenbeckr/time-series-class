@@ -38,10 +38,10 @@ This is intended to have a solid workload. This is a three credit course (the st
 
 ### Homeworks
 
-There will be weekly homeworks. You are allowed to drop one homework (this will be done automatically).  Turn the homework in via **Gradescope** (which will be linked to via the Canvas assignment page).
+There will be homeworks due every two weeks.  Turn the homework in via **Gradescope** (which will be linked to via the Canvas assignment page).
 
 ### Grading
-- 40% Weekly homeworks.
+- 40% Bi-weekly homeworks.
   - Late homework is not accepted
 - 20% Midterm 1 (in class)
 - 20% Midterm 2 (take-home)
