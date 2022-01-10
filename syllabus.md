@@ -51,7 +51,7 @@ There will be homeworks due every two weeks.  Turn the homework in via **Gradesc
 
 The overall grade may be **curved** as appropriate (not guaranteed), but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates.
 
-**Graduate students** or anyone enrolled in 5440 (instead of 4440) will be given extra homework and/or exam problems, and must do the final project on their own.  Students enrolled in 4440 may form groups of two for the final project.
+**Graduate students** or anyone enrolled in 5540 (instead of 4540) will be given extra homework and/or exam problems, and must do the final project on their own.  Students enrolled in 4440 may form groups of two for the final project.
 
 ### Late assignment and cheating policy
 
