@@ -20,7 +20,7 @@ This class is expected to meet in person most of the time, though this may chang
 ### Meeting times and location
 Meeting time: MWF 10:10 AM - 11:00 AM
 
-Location: HUMN 135 (Eaton Humanities Bldg 135)
+Location: ECCR 150 (Engineering Center)
 
 During times when the class is remote, we will meet via zoom (link is on Canvas)
 
@@ -28,7 +28,8 @@ During times when the class is remote, we will meet via zoom (link is on Canvas)
 3 hours per week, held in a hybrid fashion: attend the physical office (338 ECOT) or via zoom (link is posted in Canvas)
 
 Times:
-- TBD
+- Wed 4-5:30 PM
+- Thu 3-4:30 PM
 
 The TA Kesler O'Connor also has office hours, TBD
 
@@ -41,7 +42,7 @@ There will be weekly homeworks. You are allowed to drop one homework (this will 
 
 ### Grading
 - 40% Weekly homeworks.
-  - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped. See below for caveat
+  - Late homework is not accepted
 - 20% Midterm 1 (in class)
 - 20% Midterm 2 (take-home)
 - 20% Final Project (guided, not open-ended)
@@ -54,10 +55,10 @@ The overall grade may be **curved** as appropriate (not guaranteed), but note th
 
 ### Late assignment and cheating policy
 
-In general, **late homework** assignments are not accepted; instead, you can use your one dropped homework.  Under exceptional circumstances (such as serious illness, including COVID-19, or serious family issues), homework can be turned in late.  If the reason is foreseeable (e.g., planned travel), you must contact the instructor in advance.
+In general, **late homework** assignments are not accepted.  Under exceptional circumstances (such as serious illness, including COVID-19, or serious family issues), homework can be turned in late.  If the reason is foreseeable (e.g., planned travel), you must contact the instructor in advance.
 
 Examples:
-- Your sister is getting married and you have to travel out-of-state.  That's great, but this is when you use the one dropped homework, or turn the homework in early. This is foreseeable, and not an "emergency", so it does not count as an exceptional circumstance.
+- Your sister is getting married and you have to travel out-of-state.  That's great, but you can turn the homework in early. This is foreseeable, and not an "emergency", so it does not count as an exceptional circumstance.
 - A close family member becomes infected with COVID-19 and you have to return to your home country to take care of family.  This *does* count as an exceptional circumstance. Please email the instructor to discuss arrangements.
 
 **Cheating** is not acceptable.  Take-home exams and homeworks are easy to cheat on if you really want to, but as this is an upper-division course, I am relying on the fact that students are here to learn (and paying the university to do so), and thus cheating does not make sense.  Cheating does not hurt the instructor, it hurts the student (and hurts the grades of honest classmates).
