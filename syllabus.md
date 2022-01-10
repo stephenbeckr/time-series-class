@@ -105,8 +105,6 @@ For classroom behavior, requirements for COVID-19, accommodation for disabilitie
 
 # Syllabus
 
-Randomized methods have been a core part of computer science (CS) for a long time, but are only recently being used in scientific and numerical computing. This course focuses on these recent advances, and is distinguished from more traditional CS “randomized algorithm” courses by its focus on continuous (or at least floating point) math, as opposed to discrete math. The course will also discuss stochastic gradient methods and variance reduced versions like SVRG. Research in the field is ongoing and there is not yet a textbook, and it also means the course is not comprehensive but rather will present a biased selection of topics.
-
 ### Official course description
 Studies basic properties, trend-based models, seasonal models modeling and forecasting with ARIMA models, spectral analysis and frequency filtration.
 
