@@ -9,7 +9,7 @@ The hyperlinks below are to ipynb (jupyter) notebooks using [nbviewer](https://n
 - [R tutorial](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/R_tutorial.ipynb): quick intro to R, from when Prof. Will Kleiber taught time series in Spr '18, ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/R_tutorial.ipynb))
 
 #### Class demos
-- [Regression Example with SST](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb.ipynb))
+- [Regression Example with SST](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb))
 
 
 ### ipynb notebooks not rendering?
