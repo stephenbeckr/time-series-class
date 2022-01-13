@@ -4,7 +4,7 @@ Professor Stephen Becker
 
 Details and policies for the class, as well as homework solutions and links for zoom, are at the [Canvas page](https://canvas.colorado.edu/courses/80450) (requires CU Boulder SSO).
 
-Here is the [syllabus](syllabus.md)
+Here is the [syllabus](syllabus.md); day-by-day lectures are listed at [lecturesSchedule](lecturesSchedule.md)
 
 Here are [R Resources](Rresources.md).  Please add your own favorite R resources (tips & tricks) using a pull request.
 
