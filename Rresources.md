@@ -43,3 +43,8 @@ This document is written in [markdown](https://en.wikipedia.org/wiki/Markdown), 
 
 #### R and time series
 - A [curated list of time series topics in R](https://cran.r-project.org/web/views/TimeSeries.html).
+- The [Time Series Analysis and Its Applications With R Examples — 4th Edition](https://www.stat.pitt.edu/stoffer/tsa4/) by Shumway & Stoffer has some tutorials
+  - [R Time Series Quick Fix](https://www.stat.pitt.edu/stoffer/tsa4/R_toot.htm)
+  - [R Time Series Graphics Fix](https://www.stat.pitt.edu/stoffer/tsa4/tsgraphics.htm)
+- [Time Series and Forecasting, by Quick-R](https://www.statmethods.net/advstats/timeseries.html) has some basic info too
+
