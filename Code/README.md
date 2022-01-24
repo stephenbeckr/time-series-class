@@ -11,6 +11,8 @@ The hyperlinks below are to ipynb (jupyter) notebooks using [nbviewer](https://n
 #### Class demos
 - [Regression Example with SST](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/RegressionExample.ipynb)). We did this Wed 1/12/22
 - [First look at AR(1) and MA(1) processes](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/FirstLookAt_AR_and_MA.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/FirstLookAt_AR_and_MA.ipynb)). We did this Wed 1/19/22
+- [QQ plots and testing for normality](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/QQPlots.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/QQPlots.ipynb)).
+- [Visualizing white noise](https://nbviewer.jupyter.org/github/stephenbeckr/time-series-class/blob/main/Code/VisualizeWhiteNoise.ipynb) ([colab link for ipynb](https://colab.research.google.com/github/stephenbeckr/time-series-class/blob/main/Code/VisualizeWhiteNoise.ipynb)).
 
 
 ### ipynb notebooks not rendering?
