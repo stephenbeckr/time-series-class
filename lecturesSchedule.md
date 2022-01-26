@@ -12,9 +12,9 @@ Spring 2022
 - [Fri, Jan 21] [Lecture 5](Notes/5_SampleEstimators.pdf) on sample estimators for ACF etc (1.4.1 and 2.4); then [Lecture 6](Notes/6_MultivariateNormal.pdf) on the multivariate normal distribution (see appendices A.2 and A.3); then [Lecture 7](Notes/7_EliminatingTrends.pdf) on decomposition models and eliminating trends (1.5.1). We did lecture 7 up to right before Box-Jenkins differencing
 
 #### Week 3 (almost) back in person
-- [Mon, Jan 24] (ONLINE STILL; instructor is in isolation)  *plan: section 1.5.2 in book on seasonality*
-- [Wed, Jan 26] *plan: ARMA processes, 2.2, 2.3, 3.1*
-- [Fri, Jan 28] *plan: ARMA, ch 2 and 3 TBD*
+- [Mon, Jan 24] (ONLINE STILL; instructor is in isolation) Section 1.5.2 in book on seasonality; see [Lecture 7](Notes/7_EliminatingTrends.pdf). Demos: [TrendRemoval](Code/TrendRemoval.ipynb)
+- [Wed, Jan 26] (ONLINE STILL; instructor is in isolation) 1.6 in book on testing residuals; see [Lecture 8](Notes/8_TestingResiduals.pdf). Demos: [QQPlots](Code/QQPlots.ipynb) and [VisualizeWhiteNoise](Code/VisualizeWhiteNoise.ipynb)
+- [Fri, Jan 28] *plan: ARMA processes, 2.2, 2.3, 3.1*
 
 #### Week 4
 - [Mon, Jan 31] *plan: ARMA, ch 2 and 3 TBD*
