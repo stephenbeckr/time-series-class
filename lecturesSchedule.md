@@ -14,9 +14,9 @@ Spring 2022
 #### Week 3 (almost) back in person
 - [Mon, Jan 24] (ONLINE STILL; instructor is in isolation) Section 1.5.2 in book on seasonality; see [Lecture 7](Notes/7_EliminatingTrends.pdf). Demos: [TrendRemoval](Code/TrendRemoval.ipynb)
 - [Wed, Jan 26] (ONLINE STILL; instructor is in isolation) 1.6 in book on testing residuals; see [Lecture 8](Notes/8_TestingResiduals.pdf). Demos: [QQPlots](Code/QQPlots.ipynb) and [VisualizeWhiteNoise](Code/VisualizeWhiteNoise.ipynb)
-- [Fri, Jan 28] *plan: ARMA processes, 2.2, 2.3, 3.1*
+- [Fri, Jan 28] (ONLINE STILL; instructor is in isolation) Sections 2.1--2.3 and 3 of the book; [Lecture 9: ARMA models](9_ARMA_models.pdf). Introduce ARMA(1,1), some calculations, notions of **causal** and **invertible** ARMA processes; linear models, and general ARMA(p,q) models
 
 #### Week 4
-- [Mon, Jan 31] *plan: ARMA, ch 2 and 3 TBD*
+- [Mon, Jan 31] *plan: ARMA, ch 2 and 3 TBD*  In-person!
 - [Wed, Feb 2] *plan: ARMA, ch 2 and 3 TBD*
 - [Fri, Feb 4] *plan: ARMA, ch 2 and 3 TBD*
