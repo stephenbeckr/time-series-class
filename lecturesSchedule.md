@@ -17,6 +17,6 @@ Spring 2022
 - [Fri, Jan 28] (ONLINE STILL; instructor is in isolation) Sections 2.1--2.3 and 3 of the book; [Lecture 9: ARMA models](9_ARMA_models.pdf). Introduce ARMA(1,1), some calculations, notions of **causal** and **invertible** ARMA processes; linear models, and general ARMA(p,q) models
 
 #### Week 4
-- [Mon, Jan 31] *plan: ARMA, ch 2 and 3 TBD*  In-person!
-- [Wed, Feb 2] *plan: ARMA, ch 2 and 3 TBD*
+- [Mon, Jan 31] Prove ARMA(p,q) is causal iff phi(z) has no roots for |z| <= 1.  Misc discussion of ARMA(p,q). Mostly chapter 3.1
+- [Wed, Feb 2] *plan: more ARMA(p,q), mostly ch 3.1*
 - [Fri, Feb 4] *plan: ARMA, ch 2 and 3 TBD*
