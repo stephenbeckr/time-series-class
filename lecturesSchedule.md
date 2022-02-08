@@ -18,5 +18,9 @@ Spring 2022
 
 #### Week 4
 - [Mon, Jan 31] Prove ARMA(p,q) is causal iff phi(z) has no roots for |z| <= 1.  Misc discussion of ARMA(p,q). Mostly chapter 3.1
-- [Wed, Feb 2] *plan: more ARMA(p,q), mostly ch 3.1*
-- [Fri, Feb 4] *plan: ARMA, ch 2 and 3 TBD*
+- [Wed, Feb 2]  [no school, snow day!]
+- [Fri, Feb 4] Example finding coefficients for psi(z), theorem on invertibility of general ARMA(p,q) (no roots of theta in unit ball)
+
+#### Week 5
+- [Mon, Feb 7] Define linear processes, Proposition 2.2.1, and Theorem 2.6 (Wold decomposition); Remark 2 in section 3.1 (can usually represent ARMA process as causal and invertible); example with MA(1) with theta=5 and theta=1/5
+- [Wed, Feb 9] **planned: shared roots of phi and theta; ACF for ARMA; introduce PACF**
