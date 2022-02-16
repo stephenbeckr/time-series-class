@@ -1,3 +1,4 @@
+
 # Day-by-day schedule
 
 Spring 2022
@@ -23,4 +24,13 @@ Spring 2022
 
 #### Week 5
 - [Mon, Feb 7] Define linear processes, Proposition 2.2.1, and Theorem 2.6 (Wold decomposition); Remark 2 in section 3.1 (can usually represent ARMA process as causal and invertible); example with MA(1) with theta=5 and theta=1/5
-- [Wed, Feb 9] **planned: shared roots of phi and theta; ACF for ARMA; introduce PACF**
+- [Wed, Feb 9] Shared roots of phi and theta; ACF for ARMA (section 3.2 in the book)
+- [Fri, Feb 11] Finish method 2 for ACF for ARMA; introduce partial correlation
+
+#### Week 6
+- [Mon, Feb 14] Section 3.2 in the book on partial autocorrelation (PACF) function; examples for AR(p)
+- [Wed, Feb 16] Mention sample PACF; then start on Forecasting. Discuss generic probabilistic forecasting, and calibration and sharpness. Examples of uncalibrated weather forecasts.  Introduce scoring rules and the logarithmic scoring rule.
+  - Since scoring rules are not in our book, see [Evaluating probabilistic forecasts with scoringRules](https://arxiv.org/abs/1709.04743) (userguide for an R package) or [Probabilistic forecasts, calibration and sharpness](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jrssb.pdf) by Gneiting, Balabdaoui and Raftery 2006.
+  - For fun popular press reading, try Nate Silver's "The Signal and the Noise" (2012) which includes, among many topics, a visit to Boulder's NCAR and discussion with CU's CS professor Aaron Clauset
+  - The book "Superforecasting" by Philip Tetlock and Dand Gardner (2015) is also entertaining.
+- [Fri, Feb 18] In-class **midterm**. This is closed-note, closed-book.  
