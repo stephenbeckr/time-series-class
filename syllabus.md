@@ -28,6 +28,7 @@ During times when the class is remote, we will meet via zoom (link is on Canvas)
 3 hours per week, held in a hybrid fashion: attend the physical office (338 ECOT) or via zoom (link is posted in Canvas)
 
 Times:
+
 - Wed 4-5:30 PM
 - Thu 3-4:30 PM
 
@@ -71,6 +72,7 @@ The overall grade may be **curved** as appropriate (not guaranteed), but note th
 In general, **late homework** assignments are not accepted.  Under exceptional circumstances (such as serious illness, including COVID-19, or serious family issues), homework can be turned in late.  If the reason is foreseeable (e.g., planned travel), you must contact the instructor in advance.
 
 Examples:
+
 - Your sister is getting married and you have to travel out-of-state.  That's great, but you can turn the homework in early. This is foreseeable, and not an "emergency", so it does not count as an exceptional circumstance.
 - A close family member becomes infected with COVID-19 and you have to return to your home country to take care of family.  This *does* count as an exceptional circumstance. Please email the instructor to discuss arrangements.
 
@@ -97,6 +99,7 @@ We will use [github](https://github.com/stephenbeckr/time-series-class) for publ
 The class is intended to be in person most of the time, but we will use zoom for the first two weeks and may need to switch to zoom later as well depending on COVID-19.
 
 On zoom, please have your webcam on if at all possible
+
 - Valid reasons for not having the camera on: to protect the privacy of your family or roommate, if you cannot have a virtual background
 - Invalid reason: you don't feel like it, or you didn't wash your hair.
 
@@ -142,6 +145,7 @@ As a supplement, especially because it includes examples in the R programming la
 The class roughly follows chapters 1--6 of Brockwell and Davis. Main topics are stationarity, trend and seasonality removal, model fitting, overfitting, and forecasting. The heart of the course is on autoregressive-moving-average (ARMA) models, analyzing these models as well as fitting and prediction, but also includes a small amount of spectral analysis.
 
 More specific topics:
+
 - Exploratory data analysis and data cleaning and plotting; trend and seasonality removal
 - Overfitting, information criterions.
 - Data transformations and variance-stabilizing transformations.
@@ -157,6 +161,7 @@ More specific topics:
 - Spectral analysis: periodogram and consistent estimators for spectral density, windowing and averaging
 
 Depending on time and instructor discretion, **additional topics** may be taught (e.g., chapters 7, 8, 9 of Brockwell and Davis). More specifically, additional topics may include:
+
 - special forecasting models (ARAR/ARARMA, Holt-Winters); multivariate time series
 - state-space models and Kalman filtering
 - financial data and continuous time series (GARCH Models and Levy Processes), Black-Scholes model, Karhunen–Loève expansion
