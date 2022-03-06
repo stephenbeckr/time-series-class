@@ -4,6 +4,7 @@
   - If you use latex (not required), there is a source code file on Canvas which can save you some time of retyping questions.
 - [Homework 2](MATHSTAT4540_Spr22_HW2.pdf) due Fri Feb 11 before midnight on Canvas/Gradescope. 
 - [Homework 3](MATHSTAT4540_Spr22_HW3.pdf) due Fri Mar 4 before midnight on Canvas/Gradescope.  This homework should be nicely formatted.
+- [Homework 4](MATHSTAT4540_Spr22_HW4.pdf) due Fri Mar 18 before midnight on Canvas/Gradescope.  This homework should be nicely formatted.
 
 
 
