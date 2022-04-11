@@ -5,6 +5,7 @@
 - [Homework 2](MATHSTAT4540_Spr22_HW2.pdf) due Fri Feb 11 before midnight on Canvas/Gradescope. 
 - [Homework 3](MATHSTAT4540_Spr22_HW3.pdf) due Fri Mar 4 before midnight on Canvas/Gradescope.  This homework should be nicely formatted.
 - [Homework 4](MATHSTAT4540_Spr22_HW4.pdf) due Sun Mar 20 before midnight on Canvas/Gradescope.  This homework should be nicely formatted.
+- [Final Project](MATHSTAT4540_Spr22_Project.pdf) due Saturday April 30th before 7 PM on Canvas/Gradescope.
 
 
 
