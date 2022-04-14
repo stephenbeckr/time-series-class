@@ -51,3 +51,13 @@ There are several methods.  All but the first method require you to get an **API
     and it will load it directly into R (though it's xml or json, so you'll need to parse it; R has libraries to help with this).
 
 # Parsing data
+## Dates
+If you're given a date string from a data file like `04/06/22 12:00 -0600`, R probably reads this as a string, and now we want to make it something numeric and more useful. You can use the `as.POSIXct` function to parse the date string and return something of a nicer format.  e.g.,
+```R
+timeString <- '04/06/22 12:00 -0600'
+time       <- as.POSIXct( timeString, tz="", "%m/%d/%y %R %z" )
+```
+The 3rd argument to `as.POSIXct` tells it how to parse the string, with `%m` standing for month, `%y` stands for a two-digit year like 22 (and `%Y` is a 4-digit year like 2022), etc.  Full documentation on the parsing is available at the help file for [strptime](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/strptime).
+You can also use `as.Date` except this only works with dates and you lose the hourly data.
+
+The package `lubridate` has some good utilities for working with dates.
