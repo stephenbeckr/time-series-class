@@ -50,6 +50,8 @@ There are several methods.  All but the first method require you to get an **API
     ```
     and it will load it directly into R (though it's xml or json, so you'll need to parse it; R has libraries to help with this).
 
+5. Follow internet blog posts
+    - [Use R To Pull Energy Data From The Department of Energy’s EIA API](https://towardsdatascience.com/use-r-to-pull-energy-data-from-the-department-of-energys-eia-api-8c4512946a28) is a post by Shu Lee in 2021 on https://towardsdatascience.com/ which gives some ways to download the data. It seems to be somewhat recreating the basic functionality of the `EIAdata` package
 # Parsing data
 ## Dates
 If you're given a date string from a data file like `04/06/22 12:00 -0600`, R probably reads this as a string, and now we want to make it something numeric and more useful. You can use the `as.POSIXct` function to parse the date string and return something of a nicer format.  e.g.,
